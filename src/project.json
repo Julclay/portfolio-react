@@ -1,0 +1,26 @@
+
+[
+{"name": "Travel API",
+"description": "Website made in group project for users who want to gather some information to their destination. This is using 6 free API",
+"linkRepo": "https://github.com/Spacepineapple/infotravel-travel-information",
+"linkLive": "https://spacepineapple.github.io/infotravel-travel-information/"
+},
+
+{"name": "Weather API",
+"description": "An app which will display the weather forcast for today and the next 5 days, using API request.",
+"linkRepo": "https://github.com/Julclay/weather-API",
+"linkLive": "https://julclay.github.io/weather-API/"
+},
+
+{"name": "Quizz",
+"description": "A geography quizz with time and scoring",
+"linkRepo": "https://github.com/Julclay/Quizz-with-API",
+"linkLive": "https://julclay.github.io/Quizz-with-API/"
+},
+
+{"name": "Password generator",
+"description": "An app that will generate a random safe password according the input characteristics chosen by the user",
+"linkRepo": "https://github.com/Julclay/Password-Generator",
+"linkLive": "https://julclay.github.io/Password-Generator/"
+}
+]
